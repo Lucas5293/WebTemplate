@@ -4,35 +4,35 @@ h1{
 	text-transform: uppercase; 
 	background-color: #dcdcdc;	
 }
+
 h2{
 	padding: 20px;
 	font-size: 26px;
 	text-transform: uppercase; 
 	border-bottom: 2px solid #333333;
 }
+
 h3{
 	padding-top: 20px;
 }
+
 body{
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	margin: 0px;
 	background: #d7dee8;
 }
+
 p{
 	top: 10px;
 	text-align: justify;
 }
 
 section{
-	padding: 20px 10%;
-}
-
-
-#corpo{
-	padding-top: 80px;
+	margin: 0px 11%;
+	padding: 20px 2%;
+	padding-top: 60px;
 	background: white;
-	padding-left: 60px;
-	padding-right: 60px;
+	height: 800px; /*Apagar*/
 }
 
 #logo{
@@ -42,6 +42,7 @@ section{
 footer{
 	border-top: 1px solid #848587;
 }
+
 #copyright{
 	text-align: center;
 	height:25px;
